@@ -171,14 +171,14 @@
 					has much more drapery in it . . . I was going to write a piece at some point
 					about this called "Sense and Sensibility," dividing women writers into these
 					two. I am for the ones who represent sense ... (pp. 189-190) </p>
-				<p> Cynthia Ozick goes much farther; she refuses such dichotomies altogether: </p>
+				<p> <persName key="Ozick, Cynthia, 1928-...." ref="http://viaf.org/viaf/110575264" ana="webannotation:http://temp.lincsproject.ca/iiZNE0jLLIY">Cynthia Ozick</persName> goes much farther; she refuses such dichotomies altogether: </p>
 				<p> INTERVIEWER: you have written about the writer as being genderless and living in
 					the world of "as if" rather than being restrained by her . . . </p>
 				<p> OZICK: Parochial temporary commitments. . . . A writer is someone born with a
 					gift. An athlete can run. A painter can paint. A writer has a facility with
 					words. A good writer can also think. Isn't that enough to define a writer by?
 					(p. 304) </p>
-				<p> Cynthia Ozick also says that the biographers of Wharton and Woolf "missed the
+				<p> <persName key="Ozick, Cynthia, 1928-...." ref="http://viaf.org/viaf/110575264" ana="webannotation:http://temp.lincsproject.ca/V0yuj7orPQs">Cynthia Ozick</persName> also says that the biographers of Wharton and Woolf "missed the
 					writer" in their subjects, and this is probably easier to do with women than
 					with men. There is, still, a sort of trained-dog fascination with the idea of
 					women writers—not that the thing is done well, but that it is done at all, by a
@@ -682,6 +682,184 @@
         "type": "crm:E21_Person",
         "label": "Katherine Anne Porter",
         "description": "Katherine Anne Porter (May 15, 1890 – September 18, 1980) was an American journalist, essayist, short story writer, novelist, and political activist. Her 1962 novel Ship of Fools was the best-selling novel in America that year, but her short stories received much more critical acclaim."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iiZNE0jLLIY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iiZNE0jLLIY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:44:48.261Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aoFtCy2MSxI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aoFtCy2MSxI/selector/textPosition/aTvzpQnsKGx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10482,
+                "end": 10495,
+                "refinedBy": {
+                    "id": "/target/aoFtCy2MSxI/selector/textQuote/IgGRlbV9ddm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cynthia Ozick",
+                    "prefix": " 189-190) \n\t\t\t\t",
+                    "suffix": "goes much farther; she refuses such dichotomies altogether: \n\t\t\t\t INTERVIEWER: you have written about the writer as being genderless and living in\n\t\t\t\t\tthe world of \"as if\" rather than being restrained by her "
+                }
+            },
+            {
+                "id": "/target/aoFtCy2MSxI/selector/css/dV4Yuvq67Xf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iiZNE0jLLIY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/110575264",
+        "type": "crm:E21_Person",
+        "label": "Ozick, Cynthia, 1928-....",
+        "description": "Ozick, Cynthia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/V0yuj7orPQs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/V0yuj7orPQs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:44:48.912Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TTJGj4xk3DN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TTJGj4xk3DN/selector/textPosition/xcvTcOcJUGT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10979,
+                "end": 10992,
+                "refinedBy": {
+                    "id": "/target/TTJGj4xk3DN/selector/textQuote/JhfACnhmZmw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cynthia Ozick",
+                    "prefix": " 304) \n\t\t\t\t",
+                    "suffix": "also says that the biographers of Wharton and Woolf \"missed the\n\t\t\t\t\twriter\" in their subjects, and this is probably easier to do with women than\n\t\t\t\t\twith men"
+                }
+            },
+            {
+                "id": "/target/TTJGj4xk3DN/selector/css/WEzqpkmY7mp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/V0yuj7orPQs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/110575264",
+        "type": "crm:E21_Person",
+        "label": "Ozick, Cynthia, 1928-....",
+        "description": "Ozick, Cynthia"
     },
     "P2_has_type": [
         "oa:identifying"
