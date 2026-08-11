@@ -152,7 +152,7 @@
 					not only of almost every woman included in this book, but of almost every woman
 					writer ever interviewed: "But haven't you found that being a woman presented to
 					you, as an artist, certain special problems?" </p>
-				<p> Katherine Anne Porter’s reply—“I think that’S very true and very right"—is by no
+				<p> <persName key="Katherine Anne Porter" ref="http://dbpedia.org/resource/Katherine_Anne_Porter" ana="webannotation:http://temp.lincsproject.ca/wHEnlKW41OA">Katherine Anne Porter’s</persName> reply—“I think that’S very true and very right"—is by no
 					means the only one possible. Some, such as Mary McCarthy, are clearly impatient
 					with the question itself. McCarthy accepts some version of the "masculine"
 					versus the "feminine" sensibility, but assigns herself firmly with the former. </p>
@@ -162,7 +162,7 @@
 					writer who's a capital W, capital W. Virginia Woolf certainly was one, and
 					Katherine Mansfield was one, and Elizabeth Bowen is one. <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/8xu9JYamPCM">Katherine Anne Porter</persName>?
 					Don't think she really is—I mean, her writing is certainly very feminine, but I
-					would say that there wasn't this “WW” business in Katherine Anne Porter. Who
+					would say that there wasn't this “WW” business in <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/laL6EEL1ROr">Katherine Anne Porter</persName>. Who
 					else? There's Eudora Welty, who's certainly not a "Woman Winter," though she's
 					become one lately. </p>
 				<p> INTERVIEWER: What is it that happens to make this change? </p>
@@ -504,6 +504,184 @@
         "type": "crm:E21_Person",
         "label": "Porter, Katherine Anne, 1890-1980.",
         "description": "Porter, Katherine Anne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/laL6EEL1ROr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/laL6EEL1ROr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:36:41.884Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VefuxCW7akP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VefuxCW7akP/selector/textPosition/d0RQUd33k0B",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9881,
+                "end": 9902,
+                "refinedBy": {
+                    "id": "/target/VefuxCW7akP/selector/textQuote/Iqq4qNfzQgt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter",
+                    "prefix": " Katherine Anne Porter?\n\t\t\t\t\tDon't think she really is—I mean, her writing is certainly very feminine, but I\n\t\t\t\t\twould say that there wasn't this “WW” business in",
+                    "suffix": " Who\n\t\t\t\t\telse? There's Eudora Welty, who's certainly not a \"Woman Winter,\" though she's\n\t\t\t\t\tbecome one lately"
+                }
+            },
+            {
+                "id": "/target/VefuxCW7akP/selector/css/dC27Htlj5j7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/laL6EEL1ROr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56620604",
+        "type": "crm:E21_Person",
+        "label": "Porter, Katherine Anne, 1890-1980.",
+        "description": "Porter, Katherine Anne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wHEnlKW41OA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wHEnlKW41OA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-11T23:39:10.162Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mosa8dR4MaZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mosa8dR4MaZ/selector/textPosition/qhYOYkubTBJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9038,
+                "end": 9061,
+                "refinedBy": {
+                    "id": "/target/mosa8dR4MaZ/selector/textQuote/4JiSfywDslI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter’s",
+                    "prefix": " 65) \n\t\t\t\t The interviewer responds with a question that is asked, in one form or another,\n\t\t\t\t\tnot only of almost every woman included in this book, but of almost every woman\n\t\t\t\t\twriter ever interviewed: \"But haven't you found that being a woman presented to\n\t\t\t\t\tyou, as an artist, certain special problems?\" \n\t\t\t\t",
+                    "suffix": "reply—“I think that’S very true and very right\"—is by no\n\t\t\t\t\tmeans the only one possible"
+                }
+            },
+            {
+                "id": "/target/mosa8dR4MaZ/selector/css/gmgngRdaSzn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wHEnlKW41OA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://dbpedia.org/resource/Katherine_Anne_Porter",
+        "type": "crm:E21_Person",
+        "label": "Katherine Anne Porter",
+        "description": "Katherine Anne Porter (May 15, 1890 – September 18, 1980) was an American journalist, essayist, short story writer, novelist, and political activist. Her 1962 novel Ship of Fools was the best-selling novel in America that year, but her short stories received much more critical acclaim."
     },
     "P2_has_type": [
         "oa:identifying"
