@@ -311,7 +311,7 @@
 					you, as an artist, certain special problems?" </p>
 				<p> <persName key="Katherine Anne Porter" ref="http://dbpedia.org/resource/Katherine_Anne_Porter" ana="webannotation:http://temp.lincsproject.ca/wHEnlKW41OA">Katherine Anne Porter’s</persName> reply—“I think that’S very true and very right"—is by no
 					means the only one possible. Some, such as Mary McCarthy, are clearly impatient
-					with the question itself. McCarthy accepts some version of the "masculine"
+					with the question itself. <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/GtOLLVWxCWH">McCarthy</persName> accepts some version of the "masculine"
 					versus the "feminine" sensibility, but assigns herself firmly with the former. </p>
 				<p> INTERVIEWER: What do you think of women writers, or do you think the category
 					"woman writer" should not be made? </p>
@@ -1997,6 +1997,95 @@
         "type": "crm:E21_Person",
         "label": "Oates, Joyce Carol, 1938-....",
         "description": "Oates, Joyce Carol"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GtOLLVWxCWH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GtOLLVWxCWH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:43:54.463Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/l3zYQ9NEy3v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/l3zYQ9NEy3v/selector/textPosition/LazY4j8SoqT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9202,
+                "end": 9210,
+                "refinedBy": {
+                    "id": "/target/l3zYQ9NEy3v/selector/textQuote/D6ic5eTzobI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McCarthy",
+                    "prefix": "",
+                    "suffix": "accepts some version of the \"masculine\"\n\t\t\t\t\tversus the \"feminine\" sensibility, but assigns herself firmly with the former"
+                }
+            },
+            {
+                "id": "/target/l3zYQ9NEy3v/selector/css/wsQw3gI5KCB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GtOLLVWxCWH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
     },
     "P2_has_type": [
         "oa:identifying"
