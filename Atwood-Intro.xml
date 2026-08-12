@@ -198,7 +198,7 @@
 					interviews with writers is a departure from the norm. Previous collections have
 					mixed the genders; this one is unisexual. That the editors have chosen to bring
 					together, within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/YrVJh1SRObG">Dorothy Parker</persName>
-					and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340">Nadine Gordimer</persName>, Marianne Moore and <persName key="West, Rebecca, 1892-1983" ref="http://viaf.org/viaf/108321467">Rebecca West</persName>, Isak Dinesen and Lillian
+					and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340">Nadine Gordimer</persName>,  and <persName key="West, Rebecca, 1892-1983" ref="http://viaf.org/viaf/108321467">Rebecca West</persName>, Isak Dinesen and Lillian
 					Hellman, <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/GoLfNqtmOkw">Mary McCarthy</persName> and <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/zZ6srHjRvhF">Katherine Anne Porter</persName>, over what, in some cases,
 					would doubtless be their dead bodies, merely because they share a double-X
 					chromosome, is not due to a sudden mental aberration. Rather it has been the
@@ -211,7 +211,7 @@
 					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
-					women, he is an immature and tiresome wife-beater. Paradise Lost reads
+					women, he is an immature<persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName>and tiresome wife-beater. Paradise Lost reads
 					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
 				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
@@ -1285,6 +1285,95 @@
         "type": "crm:E21_Person",
         "label": "Parker, Dorothy, 1893-1967.",
         "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PYQbidFyAFI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PYQbidFyAFI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:22:06.138Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5dlKvK7oJIc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5dlKvK7oJIc/selector/textPosition/LB2I1lcudY6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 407,
+                "end": 421,
+                "refinedBy": {
+                    "id": "/target/5dlKvK7oJIc/selector/textQuote/pgUsBTAh5Bj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marianne Moore",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer,",
+                    "suffix": "and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/5dlKvK7oJIc/selector/css/k1YOAf2dD9Y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PYQbidFyAFI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61562401",
+        "type": "crm:E21_Person",
+        "label": "Moore, Marianne, 1887-1972.",
+        "description": "Moore, Marianne, 1887-1972, poétesse"
     },
     "P2_has_type": [
         "oa:identifying"
