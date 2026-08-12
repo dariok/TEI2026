@@ -211,7 +211,7 @@
 					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
-					women, he is an immature<placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="WOFLNX7T6pw" data-nerve-selected="true" key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="mvyha4nyy77" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="OWzSaXGAB8V" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName></persName></placeName></placeName>and tiresome wife-beater. Paradise Lost reads
+					women, he is an immature<placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="PevM5_yHACq" data-nerve-selected="true" key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="2QU0fAHe_94" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="SQ_C2HKHEBK" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName></persName></placeName></placeName>and tiresome wife-beater. Paradise Lost reads
 					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
 				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
@@ -228,7 +228,7 @@
 					alternative to language is silence.) </p>
 				<p> I was recently on a panel—that polygonal form of discourse so beloved of the
 					democratic twentieth century—consisting entirely of women, including Jan Morris,
-					who used to be James Morris, and Nayantara Sahgal of . From the audience
+					who used to be James Morris, and <persName key="Sahgal, Nayantara, 1927-...." ref="http://viaf.org/viaf/113514914" ana="webannotation:http://temp.lincsproject.ca/Qx4mC44U8H5">Nayantara Sahgal</persName> of . From the audience
 					came the question, "How do you feel about being on a panel of women?" We all
 					prevaricated. Some of us protested that we had been on lots of panels that
 					included men; others said that most panels were male, with a woman dotted here
@@ -1648,12 +1648,105 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Qx4mC44U8H5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Qx4mC44U8H5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:41:18.662Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EYvIka84qDm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EYvIka84qDm/selector/textPosition/k6ejxAOjcKI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2808,
+                "end": 2824,
+                "refinedBy": {
+                    "id": "/target/EYvIka84qDm/selector/textQuote/KMKJEXk9DiJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nayantara Sahgal",
+                    "prefix": ") \n\t\t\t\t I was recently on a panel—that polygonal form of discourse so beloved of the\n\t\t\t\t\tdemocratic twentieth century—consisting entirely of women, including Jan Morris,\n\t\t\t\t\twho used to be James Morris, and",
+                    "suffix": "of "
+                }
+            },
+            {
+                "id": "/target/EYvIka84qDm/selector/css/AiCapcyvMAW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Qx4mC44U8H5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113514914",
+        "type": "crm:E21_Person",
+        "label": "Sahgal, Nayantara, 1927-....",
+        "description": "Sahgal, Nayantara"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
 
 		
+
+		
 </xenoData>
 	
+	
 	</standOff>
+
 </TEI>
