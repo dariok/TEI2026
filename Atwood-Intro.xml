@@ -317,14 +317,14 @@
 					"woman writer" should not be made? </p>
 				<p> MCCARTHY: Some women writers make it. I mean, there's a certain kind of woman
 					writer who's a capital W, capital W. Virginia Woolf certainly was one, and
-					Katherine Mansfield was one, and Elizabeth Bowen is one. <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/8xu9JYamPCM">Katherine Anne Porter</persName>?
+					Katherine Mansfield was one, and <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/3ryzcco6zvE">Elizabeth Bowen</persName> is one. <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/8xu9JYamPCM">Katherine Anne Porter</persName>?
 					Don't think she really is—I mean, her writing is certainly very feminine, but I
 					would say that there wasn't this “WW” business in <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/laL6EEL1ROr">Katherine Anne Porter</persName>. Who
 					else? There's Eudora Welty, who's certainly not a "Woman Winter," though she's
 					become one lately. </p>
 				<p> INTERVIEWER: What is it that happens to make this change? </p>
 				<p> MCCARTHY: I think they become interested in décor. You <!--<pb n="7"/>--> notice the
-					change in Elizabeth Bowen. Her early work is much more masculine. Her later work
+					change in <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/U1Ct86Mgetd">Elizabeth Bowen</persName>. Her early work is much more masculine. Her later work
 					has much more drapery in it . . . I was going to write a piece at some point
 					about this called "Sense and Sensibility," dividing women writers into these
 					two. I am for the ones who represent sense ... (pp. 189-190) </p>
@@ -1997,6 +1997,184 @@
         "type": "crm:E21_Person",
         "label": "Oates, Joyce Carol, 1938-....",
         "description": "Oates, Joyce Carol"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3ryzcco6zvE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3ryzcco6zvE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:43:24.867Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jnTX91y1wlI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jnTX91y1wlI/selector/textPosition/GJIDYfL3UKI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9661,
+                "end": 9676,
+                "refinedBy": {
+                    "id": "/target/jnTX91y1wlI/selector/textQuote/jSwkjUd9Hd3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " Virginia Woolf certainly was one, and\n\t\t\t\t\tKatherine Mansfield was one, and",
+                    "suffix": "is one"
+                }
+            },
+            {
+                "id": "/target/jnTX91y1wlI/selector/css/jYZF3dIif29",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3ryzcco6zvE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U1Ct86Mgetd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U1Ct86Mgetd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:43:25.447Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GhlsoBQbT4c",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GhlsoBQbT4c/selector/textPosition/mLz7frkkOHi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10142,
+                "end": 10157,
+                "refinedBy": {
+                    "id": "/target/GhlsoBQbT4c/selector/textQuote/EqB6VLke2cx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Elizabeth Bowen",
+                    "prefix": " You <!----> notice the\n\t\t\t\t\tchange in",
+                    "suffix": " Her early work is much more masculine"
+                }
+            },
+            {
+                "id": "/target/GhlsoBQbT4c/selector/css/gqrCEBlEFFX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U1Ct86Mgetd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/19674925",
+        "type": "crm:E21_Person",
+        "label": "Bowen, Elizabeth, 1899-1973.",
+        "description": "Bowen, Elizabeth"
     },
     "P2_has_type": [
         "oa:identifying"
