@@ -197,7 +197,7 @@
 				<p> This new volume of the Paris Review’s highly praised and praiseworthy series of
 					interviews with writers is a departure from the norm. Previous collections have
 					mixed the genders; this one is unisexual. That the editors have chosen to bring
-					together, within the same covers, fifteen writers as diverse as Dorothy Parker
+					together, within the same covers, fifteen writers as diverse as <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/YrVJh1SRObG">Dorothy Parker</persName>
 					and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340">Nadine Gordimer</persName>, Marianne Moore and <persName key="West, Rebecca, 1892-1983" ref="http://viaf.org/viaf/108321467">Rebecca West</persName>, Isak Dinesen and Lillian
 					Hellman, <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/GoLfNqtmOkw">Mary McCarthy</persName> and <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/zZ6srHjRvhF">Katherine Anne Porter</persName>, over what, in some cases,
 					would doubtless be their dead bodies, merely because they share a double-X
@@ -389,7 +389,7 @@
 				<p> I take seriously Flaubert's statement must love one another in our art as the
 					mystics love another in God. By honoring one another's creation we honor
 					something that deeply connected us all, and beyond us. (pp. 383-384) </p>
-				<p> And from Dorothy Parker, one of the oldest: </p>
+				<p> And from <persName key="Parker, Dorothy, 1893-1967." ref="http://viaf.org/viaf/7395211" ana="webannotation:http://temp.lincsproject.ca/kvcbIMScbqB">Dorothy Parker</persName>, one of the oldest: </p>
 				<p> I want so much to write well, though I know I don't . . . But during and at the
 					end of my life, I will adore those who have. (p. 119) </p>
 				<byline> MARGARET ATWOOD, 1988 </byline>
@@ -1114,8 +1114,190 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YrVJh1SRObG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YrVJh1SRObG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:21:47.587Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mHGrvIzYpkT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mHGrvIzYpkT/selector/textPosition/7i5i12TbOYy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 366,
+                "end": 380,
+                "refinedBy": {
+                    "id": "/target/mHGrvIzYpkT/selector/textQuote/AYBGk0l3e4n",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " That the editors have chosen to bring\n\t\t\t\t\ttogether, within the same covers, fifteen writers as diverse as",
+                    "suffix": "\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak Dinesen and Lillian\n\t\t\t\t\tHellman, Mary McCarthy and Katherine Anne Porter, over what, in some cases,\n\t\t\t\t\twould doubtless be their dead bodies, merely because they share a double-X\n\t\t\t\t\tchromosome, is not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/mHGrvIzYpkT/selector/css/x3oRllQZEDx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YrVJh1SRObG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kvcbIMScbqB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kvcbIMScbqB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:21:48.468Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ObpeAoncOlZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ObpeAoncOlZ/selector/textPosition/p5FUE37Pb76",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15232,
+                "end": 15246,
+                "refinedBy": {
+                    "id": "/target/ObpeAoncOlZ/selector/textQuote/MVPNfEUdTTn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dorothy Parker",
+                    "prefix": " 383-384) \n\t\t\t\t And from",
+                    "suffix": " one of the oldest: \n\t\t\t\t I want so much to write well, though I know I don't "
+                }
+            },
+            {
+                "id": "/target/ObpeAoncOlZ/selector/css/U9QrEcjD9H6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kvcbIMScbqB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/7395211",
+        "type": "crm:E21_Person",
+        "label": "Parker, Dorothy, 1893-1967.",
+        "description": "Parker, Dorothy"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
+
+		
 </xenoData>
-	</standOff></TEI>
+	
+	</standOff>
+</TEI>
