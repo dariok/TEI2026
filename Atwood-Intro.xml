@@ -211,7 +211,7 @@
 					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
-					women, he is an immature<placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="PevM5_yHACq" data-nerve-selected="true" key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="2QU0fAHe_94" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="SQ_C2HKHEBK" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName></persName></placeName></placeName>and tiresome wife-beater. Paradise Lost reads
+					women, he is an immature<placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="PevM5_yHACq" key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="2QU0fAHe_94" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="SQ_C2HKHEBK" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName></persName></placeName></placeName>and tiresome wife-beater. Paradise Lost reads
 					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
 				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
@@ -234,7 +234,7 @@
 					included men; others said that most panels were male, with a woman dotted here
 					and there for decorative effect, like parsley. Jan Morris said that she was in
 					the process of transcending gender and was aiming at becoming a horse, to which
-					Nayantara Sahgal replied that she hoped it was an English horse, since in some
+					<persName key="Sahgal, Nayantara, 1927-...." ref="http://viaf.org/viaf/113514914" ana="webannotation:http://temp.lincsproject.ca/my97vy2XmCb">Nayantara Sahgal</persName> replied that she hoped it was an English horse, since in some
 					other, poorer countries, horses were not treated very well. Which underlined,
 					for all of us, that there are categories other than male and female worth
 					considering. </p>
@@ -263,7 +263,7 @@
 					when she says, "By and large, I don't think it matters a damn what sex a writer
 					is, so long as the work is that of a real writer" (p. 260), if what she means is
 					that it shouldn't matter, in any true assesment of talent of accomplishment, but
-					unfortunately it often has mattered, to other people. When Joyce Carol Oates is
+					unfortunately it often has mattered, to other people. When <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/nby9kgYyy5t">Joyce Carol Oates</persName> is
 					asked the "woman" question. phrased in her case as "What are the advantages of
 					being a woman writer?", she makes a virtue of necessity: </p>
 				<p> Advantages! Too many to enumerate, probably. Since, being a woman. I can't be
@@ -384,7 +384,7 @@
 					writers have done, is a blessing. Despite everything that gets said about the
 					suffering and panic and horror of being a writer, the final impression left by
 					these remarkable voices is one of thankfulness, of humility in the face of what
-					has been given. From Joyce Carol Oates, one of the youngest writers in this
+					has been given. From <persName key="Oates, Joyce Carol, 1938-...." ref="http://viaf.org/viaf/108187427" ana="webannotation:http://temp.lincsproject.ca/LBQIfr4DlQS">Joyce Carol Oates</persName>, one of the youngest writers in this
 					group: </p>
 				<p> I take seriously Flaubert's statement must love one another in our art as the
 					mystics love another in God. By honoring one another's creation we honor
@@ -1730,6 +1730,273 @@
         "type": "crm:E21_Person",
         "label": "Sahgal, Nayantara, 1927-....",
         "description": "Sahgal, Nayantara"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/my97vy2XmCb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/my97vy2XmCb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:41:19.334Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4J3WHB2Bjh3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4J3WHB2Bjh3/selector/textPosition/bwjmJctTRgI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3268,
+                "end": 3284,
+                "refinedBy": {
+                    "id": "/target/4J3WHB2Bjh3/selector/textQuote/2iKSvkmI3EK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nayantara Sahgal",
+                    "prefix": " Jan Morris said that she was in\n\t\t\t\t\tthe process of transcending gender and was aiming at becoming a horse, to which\n\t\t\t\t",
+                    "suffix": "replied that she hoped it was an English horse, since in some\n\t\t\t\t\tother, poorer countries, horses were not treated very well"
+                }
+            },
+            {
+                "id": "/target/4J3WHB2Bjh3/selector/css/KHpoluq6Odv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/my97vy2XmCb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/113514914",
+        "type": "crm:E21_Person",
+        "label": "Sahgal, Nayantara, 1927-....",
+        "description": "Sahgal, Nayantara"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nby9kgYyy5t">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nby9kgYyy5t",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:42:01.232Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OKtYrIgTcgk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OKtYrIgTcgk/selector/textPosition/tYPKzsPvwzn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5546,
+                "end": 5563,
+                "refinedBy": {
+                    "id": "/target/OKtYrIgTcgk/selector/textQuote/2Dm3YY4YGwO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Joyce Carol Oates",
+                    "prefix": " When",
+                    "suffix": "is\n\t\t\t\t\tasked the \"woman\" question"
+                }
+            },
+            {
+                "id": "/target/OKtYrIgTcgk/selector/css/dqP534kNKze",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nby9kgYyy5t]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108187427",
+        "type": "crm:E21_Person",
+        "label": "Oates, Joyce Carol, 1938-....",
+        "description": "Oates, Joyce Carol"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LBQIfr4DlQS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LBQIfr4DlQS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:42:01.233Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fNiAOOJqLKw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fNiAOOJqLKw/selector/textPosition/E5m6yHSpFT8",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14876,
+                "end": 14893,
+                "refinedBy": {
+                    "id": "/target/fNiAOOJqLKw/selector/textQuote/Zy1rFyiwz97",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Joyce Carol Oates",
+                    "prefix": " From",
+                    "suffix": " one of the youngest writers in this\n\t\t\t\t\tgroup: \n\t\t\t\t I take seriously Flaubert's statement must love one another in our art as the\n\t\t\t\t\tmystics love another in God"
+                }
+            },
+            {
+                "id": "/target/fNiAOOJqLKw/selector/css/DeTxACudw1y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LBQIfr4DlQS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/108187427",
+        "type": "crm:E21_Person",
+        "label": "Oates, Joyce Carol, 1938-....",
+        "description": "Oates, Joyce Carol"
     },
     "P2_has_type": [
         "oa:identifying"
