@@ -315,7 +315,7 @@
 					versus the "feminine" sensibility, but assigns herself firmly with the former. </p>
 				<p> INTERVIEWER: What do you think of women writers, or do you think the category
 					"woman writer" should not be made? </p>
-				<p> MCCARTHY: Some women writers make it. I mean, there's a certain kind of woman
+				<p> <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/jKKOWLHAkH3">MCCARTHY</persName>: Some women writers make it. I mean, there's a certain kind of woman
 					writer who's a capital W, capital W. Virginia Woolf certainly was one, and
 					Katherine Mansfield was one, and <persName key="Bowen, Elizabeth, 1899-1973." ref="http://viaf.org/viaf/19674925" ana="webannotation:http://temp.lincsproject.ca/3ryzcco6zvE">Elizabeth Bowen</persName> is one. <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/8xu9JYamPCM">Katherine Anne Porter</persName>?
 					Don't think she really is—I mean, her writing is certainly very feminine, but I
@@ -359,7 +359,7 @@
 					conversations the edginess shows through. Some disclaim ego, remarkable in a
 					collection of such strong, assertive, individual voices; others keep secrets;
 					others fence with their considerable intelligence; others protect themselves
-					with wit. Some recommend objectivity, McCarthy's "sense"; others, like Edna
+					with wit. Some recommend objectivity, <persName key="McCarthy, Mary, 1912-1989." ref="http://viaf.org/viaf/105465037" ana="webannotation:http://temp.lincsproject.ca/rJmzUkswNHh">McCarthy</persName>'s "sense"; others, like Edna
 					O'Brien, speak of necessary demons. It would be a brave person who would try to
 					stuff these wonderful and various talents into one tidy box labelled “WW,” and
 					expect that acronym to be definitive. Despite the title of this book, the lab I
@@ -2078,6 +2078,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/GtOLLVWxCWH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/jKKOWLHAkH3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/jKKOWLHAkH3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:44:24.095Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/l57nrlVy9Gi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/l57nrlVy9Gi/selector/textPosition/9Gt7Iv2OVlz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9465,
+                "end": 9473,
+                "refinedBy": {
+                    "id": "/target/l57nrlVy9Gi/selector/textQuote/uf0J7D0dYSc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "MCCARTHY",
+                    "prefix": " \n\t\t\t\t INTERVIEWER: What do you think of women writers, or do you think the category\n\t\t\t\t\t\"woman writer\" should not be made? \n\t\t\t\t",
+                    "suffix": " Some women writers make it"
+                }
+            },
+            {
+                "id": "/target/l57nrlVy9Gi/selector/css/Ultnn61lNG2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/jKKOWLHAkH3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105465037",
+        "type": "crm:E21_Person",
+        "label": "McCarthy, Mary, 1912-1989.",
+        "description": "McCarthy, Mary"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rJmzUkswNHh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rJmzUkswNHh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:43:55.264Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/k6unJ2YZikZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/k6unJ2YZikZ/selector/textPosition/SmE2DwE9kcs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12953,
+                "end": 12961,
+                "refinedBy": {
+                    "id": "/target/k6unJ2YZikZ/selector/textQuote/snSjJ7Mpob5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McCarthy",
+                    "prefix": " Some recommend objectivity,",
+                    "suffix": "s \"sense\"; others, like Edna\n\t\t\t\t\tO'Brien, speak of necessary demons"
+                }
+            },
+            {
+                "id": "/target/k6unJ2YZikZ/selector/css/y4aS5lIkNk2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rJmzUkswNHh]"
             }
         ]
     },
