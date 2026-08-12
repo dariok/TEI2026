@@ -211,7 +211,7 @@
 					can by women, and vice versa. For many women, Heathcliff is a romantic hero; for
 					many men, he is a posturing oaf they'd like to punch in the nose. For many men,
 					The Ginger Man's Sebastian Dangerfield is an energy-packed rebel; for many
-					women, he is an immature<persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName>and tiresome wife-beater. Paradise Lost reads
+					women, he is an immature<placeName key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="WOFLNX7T6pw" data-nerve-selected="true" key="India" ref="http://www.wikidata.org/entity/Q668" ana="webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="mvyha4nyy77" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH"><persName class="nerve-entity" data-nerve-entity-type="person" data-nerve-status="approved" data-nerve-wa-uuid="OWzSaXGAB8V" key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/PYQbidFyAFI"> </persName></persName></placeName></placeName>and tiresome wife-beater. Paradise Lost reads
 					differently <!--<pb n="3"/>--> when viewed by the daughters of Eve, and with Milton's
 					browbeaten secretarial daughters in mind; and so on down through the canon. </p>
 				<p> Such gender-polarized analyses can reach beyond subject-matter and point of
@@ -228,7 +228,7 @@
 					alternative to language is silence.) </p>
 				<p> I was recently on a panel—that polygonal form of discourse so beloved of the
 					democratic twentieth century—consisting entirely of women, including Jan Morris,
-					who used to be James Morris, and Nayantara Sahgal of India. From the audience
+					who used to be James Morris, and Nayantara Sahgal of . From the audience
 					came the question, "How do you feel about being on a panel of women?" We all
 					prevaricated. Some of us protested that we had been on lots of panels that
 					included men; others said that most panels were male, with a woman dotted here
@@ -284,7 +284,7 @@
 					but it certainly was at the time, and I didn't much like it. I dealt with it the
 					same way I deal with everything. I just tended my own garden, didn't pay much
 					attention, be- haved—I suppose—deviously. (Pp. 324-325) </p>
-				<p> I think of Marianne Moore, living decorously with her mother and her "dark"
+				<p> I think of , living decorously with her mother and her "dark"
 					furniture, her height of social rebellion the courageous ignoring of the need
 					for chaperones at Village literary parties, and wonder how many male writers
 					could have lived such a circumscribed life and survived the image. </p>
@@ -368,7 +368,7 @@
 					limited in scope by the writers actually interviewed to date by The Paris
 					Review. Thus, although there are writers from the United States, Ireland,
 					England, Denmark, and South Africa, there are none here from, for instance,
-					India or Australia or Canada or Latin America: no Alice Munro, no Anita Desai,
+					 or Australia or Canada or Latin America: no Alice Munro, no Anita Desai,
 					no Isabel Allende. As this assemblage is unisexual, so is it uni-colored: thus
 					far no Toni Morrison, no Alice Walker, no Louise Erdrich. Nor are there many
 					writers who are known for an explicit and self-aware examination of the more
@@ -1374,6 +1374,273 @@
         "type": "crm:E21_Person",
         "label": "Moore, Marianne, 1887-1972.",
         "description": "Moore, Marianne, 1887-1972, poétesse"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tNtRU9KvBWH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tNtRU9KvBWH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:22:06.744Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BUzeeTG8cbq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BUzeeTG8cbq/selector/textPosition/JYDIcZJXp08",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7084,
+                "end": 7098,
+                "refinedBy": {
+                    "id": "/target/BUzeeTG8cbq/selector/textQuote/mbP0FMQZDE9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marianne Moore",
+                    "prefix": " 324-325) \n\t\t\t\t I think of",
+                    "suffix": " living decorously with her mother and her \"dark\"\n\t\t\t\t\tfurniture, her height of social rebellion the courageous ignoring of the need\n\t\t\t\t\tfor chaperones at Village literary parties, and wonder how many male writers\n\t\t\t\t\tcould have lived such a circumscribed life and survived the image"
+                }
+            },
+            {
+                "id": "/target/BUzeeTG8cbq/selector/css/AGPPIlbHhrZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tNtRU9KvBWH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/61562401",
+        "type": "crm:E21_Person",
+        "label": "Moore, Marianne, 1887-1972.",
+        "description": "Moore, Marianne, 1887-1972, poétesse"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/b7HDNfiIH8W">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/b7HDNfiIH8W",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:22:54.713Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Khzu83JiZ2J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Khzu83JiZ2J/selector/textPosition/c4O0lxPOO0Q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2842,
+                "end": 2847,
+                "refinedBy": {
+                    "id": "/target/Khzu83JiZ2J/selector/textQuote/7yQuHlNWasM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": ") \n\t\t\t\t I was recently on a panel—that polygonal form of discourse so beloved of the\n\t\t\t\t\tdemocratic twentieth century—consisting entirely of women, including Jan Morris,\n\t\t\t\t\twho used to be James Morris, and Nayantara Sahgal of",
+                    "suffix": " From the audience\n\t\t\t\t\tcame the question, \"How do you feel about being on a panel of women?\" We all\n\t\t\t\t\tprevaricated"
+                }
+            },
+            {
+                "id": "/target/Khzu83JiZ2J/selector/css/nHRHgWleWUE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/b7HDNfiIH8W]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q668",
+        "type": "crm:E53_Place",
+        "label": "India",
+        "description": "country in South Asia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/s6MCTmdEfBU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/s6MCTmdEfBU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-08-12T00:22:55.305Z",
+    "creator": {
+        "id": "https://github.com/dariok",
+        "type": "crm:E21_Person",
+        "name": "Dario Kampkaspar"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kKwovaFvlta",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/dariok/TEI2026/main/Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Introduction: Women Writers at Work: The Paris Review Interviews"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kKwovaFvlta/selector/textPosition/7VI24GOdKf2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13666,
+                "end": 13671,
+                "refinedBy": {
+                    "id": "/target/kKwovaFvlta/selector/textQuote/NHGtC415Mp9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "India",
+                    "prefix": " Thus, although there are writers from the United States, Ireland,\n\t\t\t\t\tEngland, Denmark, and South Africa, there are none here from, for instance,\n\t\t\t\t",
+                    "suffix": "or Australia or Canada or Latin America: no Alice Munro, no Anita Desai,\n\t\t\t\t\tno Isabel Allende"
+                }
+            },
+            {
+                "id": "/target/kKwovaFvlta/selector/css/ANUWsY1s9rA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/s6MCTmdEfBU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q668",
+        "type": "crm:E53_Place",
+        "label": "India",
+        "description": "country in South Asia"
     },
     "P2_has_type": [
         "oa:identifying"
